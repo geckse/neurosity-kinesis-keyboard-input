@@ -1,0 +1,25 @@
+{
+  "name": "neurosity-kinesis-keyboard-input",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geckse/neurosity-kinesis-keyboard-input.git"
+  },
+  "author": "geckse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geckse/neurosity-kinesis-keyboard-input/issues"
+  },
+  "homepage": "https://github.com/geckse/neurosity-kinesis-keyboard-input#readme",
+  "dependencies": {
+    "@neurosity/sdk": "^6.5.9",
+    "dotenv": "^16.3.1",
+    "robotjs": "^0.6.0"
+  }
+}
